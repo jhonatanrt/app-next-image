@@ -60,6 +60,15 @@ export default function Home() {
             layout="responsive"
           />
         </div>
+        <div className={styles.card}>
+          <Image
+            alt="The guitarist in the concert."
+            src="https://r.prcdn.co/res/es-mx/g23236/t356183796/2/images/logo-black.png"
+            width={2250}
+            height={1390}
+            layout="responsive"
+          />
+        </div>
       </main>
 
       <footer className={styles.footer}>
